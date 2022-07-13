@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**Ajagunnla/ajagunnla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently building up my Technical and Analytical skills in order to be a Data Analyst
 - 🌱 I’m currently learning Data Analysis using different resources including the Google Data Anlytics professional certification course on Coursera, improving my Microsoft Excel skill from beginner to an advanced user via the macquarie university Excel course on Cousera and several other platforms
